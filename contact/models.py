@@ -11,6 +11,7 @@ FORM_FIELD_CHOICES = (
     ('singleline', _('Single line text')),
     ('multiline', _('Multi-line text')),
     ('email', _('Email')),
+    ('phonenumber', _('Phone Number')),
     ('url', _('URL')),
 )
 
